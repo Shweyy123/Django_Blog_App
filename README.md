@@ -43,7 +43,7 @@ A simple, user-friendly blog application built with Django to share and manage p
 
         python -m venv venv
         source venv/bin/activate  # On Windows: venv\Scripts\activate
-       pip install -r requirements.txt
+        pip install -r requirements.txt
 
 3) Set up the database:
 
